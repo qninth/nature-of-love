@@ -11,8 +11,8 @@
 
 ## 附录
 
-这个项目原始的网址为：[论爱](http://nature-of-love.com)。目前已经不能访问。
-
-可以通过互联网时光机找到：[时光机：论爱](https://web.archive.org/web/20180703050130/http://www.nature-of-love.com/)。
-
-在网站下线之前，有人将所有的信息爬取了下来，目前一个备份收藏在蓝奏云中：[蓝奏云：论爱 密码:gkwg](https://wwz.lanzouw.com/b01dc7awb)。
+1. 这个项目原始的网址为：[论爱](http://nature-of-love.com)。目前已经不能访问。
+2. 可以通过互联网时光机找到部分文章，尚有很多未经备份：[时光机：论爱](https://web.archive.org/web/20180703050130/http://www.nature-of-love.com/)。
+3. 在网站下线之前，有人将所有的信息爬取了下来，目前一个备份收藏在蓝奏云中：[蓝奏云：论爱 密码:gkwg](https://wwz.lanzouw.com/b01dc7awb)。
+4. 网上也有其他人遇到了这段文本，并且在分享：[爱的养成指南 - explorelo 的专栏](https://www.bilibili.com/read/cv11272323/)
+5. 网友提到微信公众号：“论之以爱”有更多内容。
