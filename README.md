@@ -16,3 +16,4 @@
 3. 在网站下线之前，有人将所有的信息爬取了下来，目前一个备份收藏在蓝奏云中：[蓝奏云：论爱 密码:gkwg](https://wwz.lanzouw.com/b01dc7awb)。
 4. 网上也有其他人遇到了这段文本，并且在分享：[爱的养成指南 - explorelo 的专栏](https://www.bilibili.com/read/cv11272323/)
 5. 网友提到微信公众号：“论之以爱”有更多内容。
+6. 知乎上有一位论点一致的答主：[John](https://www.zhihu.com/people/mcbig)
